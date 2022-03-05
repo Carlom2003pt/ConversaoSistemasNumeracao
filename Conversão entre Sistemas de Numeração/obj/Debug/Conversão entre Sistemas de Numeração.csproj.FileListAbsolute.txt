@@ -1,0 +1,19 @@
+C:\Users\Samsung\source\repos\Conversão entre Sistemas de Numeração\Conversão entre Sistemas de Numeração\bin\Debug\Conversão entre Sistemas de Numeração.exe.config
+C:\Users\Samsung\source\repos\Conversão entre Sistemas de Numeração\Conversão entre Sistemas de Numeração\bin\Debug\Conversão entre Sistemas de Numeração.exe
+C:\Users\Samsung\source\repos\Conversão entre Sistemas de Numeração\Conversão entre Sistemas de Numeração\bin\Debug\Conversão entre Sistemas de Numeração.pdb
+C:\Users\Samsung\source\repos\Conversão entre Sistemas de Numeração\Conversão entre Sistemas de Numeração\obj\Debug\Conversão entre Sistemas de Numeração.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\Conversão entre Sistemas de Numeração\Conversão entre Sistemas de Numeração\obj\Debug\Conversão_entre_Sistemas_de_Numeração.Form1.resources
+C:\Users\Samsung\source\repos\Conversão entre Sistemas de Numeração\Conversão entre Sistemas de Numeração\obj\Debug\Conversão_entre_Sistemas_de_Numeração.Properties.Resources.resources
+C:\Users\Samsung\source\repos\Conversão entre Sistemas de Numeração\Conversão entre Sistemas de Numeração\obj\Debug\Conversão entre Sistemas de Numeração.csproj.GenerateResource.cache
+C:\Users\Samsung\source\repos\Conversão entre Sistemas de Numeração\Conversão entre Sistemas de Numeração\obj\Debug\Conversão entre Sistemas de Numeração.exe
+C:\Users\Samsung\source\repos\Conversão entre Sistemas de Numeração\Conversão entre Sistemas de Numeração\obj\Debug\Conversão entre Sistemas de Numeração.pdb
+C:\Users\Carlos Marques\source\Antiga\Conversão entre Sistemas de Numeração\Conversão entre Sistemas de Numeração\bin\Debug\Conversão entre Sistemas de Numeração.exe.config
+C:\Users\Carlos Marques\source\Antiga\Conversão entre Sistemas de Numeração\Conversão entre Sistemas de Numeração\bin\Debug\Conversão entre Sistemas de Numeração.exe
+C:\Users\Carlos Marques\source\Antiga\Conversão entre Sistemas de Numeração\Conversão entre Sistemas de Numeração\bin\Debug\Conversão entre Sistemas de Numeração.pdb
+C:\Users\Carlos Marques\source\Antiga\Conversão entre Sistemas de Numeração\Conversão entre Sistemas de Numeração\obj\Debug\Conversão entre Sistemas de Numeração.csproj.AssemblyReference.cache
+C:\Users\Carlos Marques\source\Antiga\Conversão entre Sistemas de Numeração\Conversão entre Sistemas de Numeração\obj\Debug\Conversão_entre_Sistemas_de_Numeração.Form1.resources
+C:\Users\Carlos Marques\source\Antiga\Conversão entre Sistemas de Numeração\Conversão entre Sistemas de Numeração\obj\Debug\Conversão_entre_Sistemas_de_Numeração.Properties.Resources.resources
+C:\Users\Carlos Marques\source\Antiga\Conversão entre Sistemas de Numeração\Conversão entre Sistemas de Numeração\obj\Debug\Conversão entre Sistemas de Numeração.csproj.GenerateResource.cache
+C:\Users\Carlos Marques\source\Antiga\Conversão entre Sistemas de Numeração\Conversão entre Sistemas de Numeração\obj\Debug\Conversão entre Sistemas de Numeração.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Marques\source\Antiga\Conversão entre Sistemas de Numeração\Conversão entre Sistemas de Numeração\obj\Debug\Conversão entre Sistemas de Numeração.exe
+C:\Users\Carlos Marques\source\Antiga\Conversão entre Sistemas de Numeração\Conversão entre Sistemas de Numeração\obj\Debug\Conversão entre Sistemas de Numeração.pdb
